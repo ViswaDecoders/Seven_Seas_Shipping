@@ -7,5 +7,5 @@ public class mongoDBconnect {
 	{
 		MongoClient mongoClient=new MongoClient("localhost",27017);
 	}
-
+	
 }
